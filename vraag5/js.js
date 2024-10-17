@@ -9,4 +9,3 @@ while(i<=getal)
     i++;
 }
 console.log("De som van de cijfers is "+som);//output is niet juist..
-

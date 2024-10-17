@@ -1,7 +1,7 @@
 
 
 let temperatuur=parseInt(prompt("geef het temperatuur in:"));
-let farenheit=temperatuur*(9/5);
+let farenheit=temperatuur*(9/5);//de formule is wss is niet juist geschreven..
 
 if (temperatuur<15){
     console.log(temperatuur + " graden Celcius is gelijk aan "+ farenheit + " graden Farenheid en voelt frisjes aan");
