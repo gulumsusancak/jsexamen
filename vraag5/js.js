@@ -1,15 +1,12 @@
 
-let getal=parseInt(prompt("geef getallen in:"));
-let som=0;
+let getal=parseInt(prompt("geef getal in:"));
 let i=1;
+let som=0;
 
-while(i<=getal)//zolang dat i kleiner of gelijk aan getal is mag je het volgende doen
+while(i<=getal)
 {
-    som+=i;//som van getallen
+    som+=i;
     i++;
 }
 console.log("De som van de cijfers is "+som);//output is niet juist..
-
-
-
 
